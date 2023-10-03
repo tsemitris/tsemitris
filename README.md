@@ -1,14 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+medium&pause=29&color=000000&vCenter=true&width=435&height=25&lines=Welcome;V%C3%A4lkommen;Velkommen;Tervetuloa;Welkom;%CE%9A%CE%B1%CE%BB%CF%8E%CF%82+%CE%AE%CF%81%CE%B8%CE%B1%CF%84%CE%B5;Dobrodo%C5%A1li;Witamy;%D0%94%D0%BE%D0%B1%D1%80%D0%B5%D0%B4%D0%BE%D1%98%D0%B4%D0%B5%D0%BD;Benvenuta;Velkominn;Bine+ati+venit;%E6%AC%A2%E8%BF%8E;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%ED%99%98%EC%98%81)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI+medium&pause=29&color=000000&vCenter=true&width=435&height=25&lines=Welcome;V%C3%A4lkommen;Velkommen;Tervetuloa;Welkom;%CE%9A%CE%B1%CE%BB%CF%8E%CF%82+%CE%AE%CF%81%CE%B8%CE%B1%CF%84%CE%B5;Dobrodo%C5%A1li;Witamy;%D0%94%D0%BE%D0%B1%D1%80%D0%B5%D0%B4%D0%BE%D1%98%D0%B4%D0%B5%D0%BD;Benvenuta;Velkominn;Bine+ati+venit;%E6%AC%A2%E8%BF%8E;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B;%ED%99%98%EC%98%81)](https://git.io/typing-svg) 
 ----------
 
 
 
-
+<!--
 ![GitHub Visitors](https://komarev.com/ghpvc/?username=tsemitris&style=for-the-badge&logo=github&logoColor=white&label=Visitors)
 [![GitHub followers](https://img.shields.io/github/followers/tsemitris.svg?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/tsemitris?tab=followers)
+-->
+
 <p align="center">
-Hey & welcome to my Github! My name is <b>Nikolaos Sarris</b> and I am currently <br>studying <b>front-end development</b> at <a href="https://medieinstitutet.se/">Medieinstitutet</a> in Sweden.
-</p>
+  Hey & welcome to my Github! My name is <b>Nikolaos Sarris</b> and I am currently <br>studying <b>front-end development</b> at <a href="https://medieinstitutet.se/">Medieinstitutet</a> in Sweden.
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=tsemitris&style=for-the-badge&logo=github&logoColor=white&label=Visitors" alt="Github Visitor" />
+  <img src="https://img.shields.io/github/followers/tsemitris.svg?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+</p> 
 
 
 ## 👨🏻‍💻 Technical skills 
