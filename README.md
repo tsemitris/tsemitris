@@ -51,7 +51,7 @@
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-sarris-a85a63179/)
 
 <p align="right">
-  Created with 🖤 by <a href="https://github.com/tsemitris">Tsemitris</a>
+  Created with ❤️ by <a href="https://github.com/tsemitris">Tsemitris</a>
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=tsemitris&style=for-the-badge&logo=github&logoColor=white&label=Visitors" alt="GitHub Visitors">
