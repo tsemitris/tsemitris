@@ -4,7 +4,7 @@
 
 
 
-![GitHub Visitors](https://komarev.com/ghpvc/?username=tsemitris&style=for-the-badge&logo=github&logoColor=white&label=Visitors)
+
 [![GitHub followers](https://img.shields.io/github/followers/tsemitris.svg?style=for-the-badge&logo=github&logoColor=white&label=Followers)](https://github.com/tsemitris?tab=followers)
 
 Hey & welcome to my Github! My name is **Nikolaos Sarris** and I am currentlystudying <b>front-end development</b> at <a href="https://medieinstitutet.se/">Medieinstitutet</a> in Sweden.
