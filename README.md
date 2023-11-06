@@ -48,7 +48,7 @@
 
 
 ## 📫 How to reach me:
-[![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-sarris-a85a63179/)
+[![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-sarris/)
 
 <p align="right">
   Created with ❤️ by <a href="https://github.com/tsemitris">Tsemitris</a>
