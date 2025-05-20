@@ -10,13 +10,13 @@
 I'm **Nikolaos Sarris**, a curious and creative **Junior Front End Developer** <br />
 who loves building smooth and accessible web experiences.
 
-🖌  Designing intuitive front-end solutions with React, TypeScript, and a deep appreciation for UX.<br />
+🖌  Designing intuitive front-end solutions with **React**, **TypeScript**, and a deep appreciation for **UX**.<br />
 🎓 Graduated from **Medieinstitutet** — Class of 2025 <br />
 👨‍🏫 Always learning, always building!
 
----
 
-### 👨🏻‍💻 Technical skills 
+
+## 👨🏻‍💻 Technical skills 
 
 
 ![Technologies & Tools](https://img.shields.io/badge/technologies%20&%20tools-grey.svg?style=for-the-badge&logoColor=white)
@@ -58,7 +58,7 @@ who loves building smooth and accessible web experiences.
 -->
 
 
-### 📫 Connect with me:
+## 📫 Connect with me:
 [![Linkedin link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaos-sarris/)
 
 <p align="right">
